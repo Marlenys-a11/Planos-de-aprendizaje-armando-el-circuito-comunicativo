@@ -44,9 +44,12 @@ repositorios para planos
 
 ### 💡 Reflexión
 
-- ❓ ¿Qué roles asumimos como emisores y receptores? El docente como emisor-guía, los estudiantes como receptores-activos que también producen mensajes. 
-- 📱 ¿Qué medios utilizamos?Plataformas como Google Meet, Moodle, WhatsApp, correo electrónico.  
-- ⚠️ ¿Qué obstáculos interfieren en la comunicación? Problemas de conexión, falta de participación, mensajes confusos o exceso de ruido digital. 
+- ❓ ¿Qué roles asumimos como emisores y receptores?
+- El docente como emisor-guía, los estudiantes como receptores-activos que también producen mensajes. 
+- 📱 ¿Qué medios utilizamos?
+- Plataformas como Google Meet, Moodle, WhatsApp, correo electrónico.  
+- ⚠️ ¿Qué obstáculos interfieren en la comunicación?
+-  Problemas de conexión, falta de participación, mensajes confusos o exceso de ruido digital. 
 
 ---
 
@@ -56,11 +59,11 @@ repositorios para planos
 
 | Elemento            | Quién / Qué                             | Detalles / Ejemplos                         | Representación visual 
 
-|-------------------|------------|------------------------
-| 🔊 **Emisor**     | Docente / estudiante activo      | Explica, comparte materiales, plantea preguntas            |   🎤   |
-| 👂 **Receptor**    |  Estudiantes / docente              |Escucha, interpreta, responde                          |   👂  
+| 🔊 **Emisor**     | Docente / estudiante activo          | Explica, comparte materiales, plantea preguntas            |   🎤   |
+| 👂 **Receptor**    |  Estudiantes / docente              |Escucha, interpreta, responde                            |   👂  
  |
 | 🌐 **Canal**        |  Plataformas digitales            | Ej: Google Meet, Moodle, WhatsApp, correo               | 💻📱  |
-| ⚠️ **Ruido**        |  Factores externos               | Ej: desconexión, distracción, mal diseño de contenido   | 📶❌   |
+| ⚠️ **Ruido**        |  Factores externos                 | Ej: desconexión, distracción, mal diseño de contenido   | 📶❌   |
 | 🔁 **Retroalimentación** |  Interacción docente-estudiante |Preguntas, comentarios, correcciones, participación activa Cómo se completa el circuito                                                                                             |   🔄  |                           
+
 
