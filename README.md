@@ -54,12 +54,14 @@ repositorios para planos
 
 📌 *Formato sugerido: tabla o esquema (puede incluir imágenes, íconos, emojis y enlaces).*
 
-| Elemento            | Quién / Qué                  | Detalles / Ejemplos                                  | Representación visual |
+| Elemento            | Quién / Qué                  | Detalles / Ejemplos                                         | Representación visual 
+
 |--------------------|------------|----------------------------------------------------------|----------------------|
-| 🔊 **Emisor**       | Docente / estudiante activo   | Explica, comparte materiales, plantea preguntas              🎤                                           |                      |
-| 👂 **Receptor**     |  Estudiantes / docente        |Escucha, interpreta, responde                                👩‍🎓                                                     |                |
+| 🔊 **Emisor**       | Docente / estudiante activo   | Explica, comparte materiales, plantea preguntas                                                              |        🎤               |
+| 👂 **Receptor**     |  Estudiantes / docente        |Escucha, interpreta, responde                                                                                           |   👂  
+ |
 | 🌐 **Canal**        |  Plataformas digitales      | Ej: Google Meet, Moodle, WhatsApp, correo         | 💻📱                     |
 | ⚠️ **Ruido**        |  Factores externos          | Ej: desconexión, distracción, mal diseño de contenido    |   📶❌                   |
-| 🔁 **Retroalimentación** |  Interacción docente-estudiante    |Preguntas, comentarios, correcciones, participación activa Cómo se completa el circuito                             |                      |                           🔄
+| 🔁 **Retroalimentación** |  Interacción docente-estudiante    |Preguntas, comentarios, correcciones, participación activa Cómo se completa el circuito                             |               🔄       |                           🔄
 
 ---
