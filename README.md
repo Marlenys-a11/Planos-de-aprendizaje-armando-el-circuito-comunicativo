@@ -57,7 +57,7 @@ repositorios para planos
 
 📌 *Formato sugerido: tabla o esquema (puede incluir imágenes, íconos, emojis y enlaces).*
 
-| Elemento            | Quién / Qué                             | Detalles / Ejemplos                         | Representación visual 
+| Elemento     | Quién / Qué                       | Detalles / Ejemplos                         | Representación visual 
 
 | 🔊 **Emisor**     | Docente / estudiante activo          | Explica, comparte materiales, plantea preguntas            |   🎤   |
 | 👂 **Receptor**    |  Estudiantes / docente              |Escucha, interpreta, responde                            |   👂  
