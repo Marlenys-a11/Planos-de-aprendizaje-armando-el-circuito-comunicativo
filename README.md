@@ -64,4 +64,3 @@ repositorios para planos
 | ⚠️ **Ruido**        |  Factores externos               | Ej: desconexión, distracción, mal diseño de contenido   | 📶❌   |
 | 🔁 **Retroalimentación** |  Interacción docente-estudiante |Preguntas, comentarios, correcciones, participación activa Cómo se completa el circuito                                                                                             |   🔄  |                           
 
----
